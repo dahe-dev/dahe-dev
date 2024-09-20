@@ -94,11 +94,11 @@
 
 # GitHub Stats 📈
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarda&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkarda&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
 </a>
 <br><br>
 
