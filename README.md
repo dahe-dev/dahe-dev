@@ -20,49 +20,42 @@
   </p>
 <br>
 
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,py,cpp" />
-  </a>
-</p>
-
-
 ## 🖥️ Tecnologías conocidas :
 
 <p align="right">
-  <h3><i>Hosting providers:</i></h3>
+  <h3><i>Lenguajes de programación: </i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       </a>
-      <br>AWS
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ipc-logo.png?raw=true" width="48" height="48" alt="Infomaniak Public Cloud" />
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts" />
       </a>
-      <br>IPC
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/netlify-logo.png?raw=true" width="48" height="48" alt="Netlify" />
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
       </a>
-      <br>Netlify
+<!--       <br>PHP -->
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/openstack-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="py" />
       </a>
-      <br>OpenStack
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="cpp" />
+      </a>
     </td>
   </tr>
 </table>
 <p>
-  <h3><i>Languages:</i></h3>
+  <h3><i>Frameworks y bibliotecas:</i></h3>
   <table>
   <tr border: none;>
    <td align="center" width="110">
@@ -104,45 +97,9 @@
   </tr>
 </table>
 </p>
+
 <p>
-  <h3><i>Operating Systems:</i></h3>
-  <table>
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/debian-logo.png?raw=true" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/apple-logo.png?raw=true" width="48" height="48" alt="macOS" />
-      </a>
-      <br>macOS
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/redhat-logo.png?raw=true" width="48" height="48" alt="Red Hat" />
-      </a>
-      <br>Red Hat
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ubuntu-logo.png?raw=true" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
-      </a>
-      <br>Windows
-    </td>
-  </tr>
-</table>
-</p>
-<p>
-  <h3><i>Other tools:</i></h3>
+  <h3><i>Otras herramientas y tecnologías:</i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
