@@ -93,25 +93,25 @@
 
 
 # GitHub Stats 📈
-<a href="https://github.com/dahe-dev/dahe-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <a href="https://github.com/dahe-dev/dahe-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  </a>
 
-<a href="https://github.com/dahe-dev/dahe-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
-</a>
-<br><br>
+  <a href="https://github.com/dahe-dev/dahe-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27s%20Github%20Stats" alt="David's GitHub Stats" />
+  </a>
 
-<a href="https://github.com/dahe-dev/dahe-dev">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true)](https://github.com/dahe-dev" alt="Rahul's GitHub Stats Graph"/>
-</a>
-<br><br>
+  <a href="https://github.com/dahe-dev/dahe-dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true" alt="David's GitHub Stats Graph" />
+  </a>
 
-<a href="https://github.com/dahe-dev/dahe-dev">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=dark" alt="Rahul's GitHub Streak Stats"/>
-</a>
-<br><br>
-<!-- Aqui entra el otro -->
+  <a href="https://github.com/dahe-dev/dahe-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=dark" alt="David's GitHub Streak Stats" />
+  </a>
+</div>
+
+<!-- Proyectos-->
 <br>
 
 <a href="https://github.com/rahulkarda/NFT-Portal">
@@ -137,11 +137,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=IP-Address-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br><br>
-
-
-
-
-
 
 
 
