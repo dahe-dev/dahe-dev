@@ -103,7 +103,7 @@
 <br><br>
 
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true)](https://github.com/dahe-dev" alt="Rahul's GitHub Stats Graph"/>
 </a>
 <br><br>
 
