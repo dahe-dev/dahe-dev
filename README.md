@@ -106,12 +106,12 @@
   <h3><i>Base de datos:</i></h3>
   <table>
   <tr border: none;>
-   <td align="center" >
+   <td align="center" width="60" height="55">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="mysql" />
       </a>
     </td>
-   <td align="center" >
+   <td align="center" width="60" height="55">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="postgres" />
       </a>
