@@ -33,33 +33,33 @@
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts" />
+        <img src="https://skillicons.dev/icons?i=ts" width="24" height="24" alt="ts" />
       </a>
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+        <img src="https://skillicons.dev/icons?i=php" width="24" height="24" alt="php" />
       </a>
 <!--       <br>PHP -->
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="py" />
+        <img src="https://skillicons.dev/icons?i=py" width="24" height="24" alt="py" />
       </a>
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="cpp" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="24" height="24" alt="cpp" />
       </a>
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
+        <img src="https://skillicons.dev/icons?i=html" width="24" height="24" alt="html" />
       </a>
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="24" height="24" alt="css" />
       </a>
     </td>
   </tr>
