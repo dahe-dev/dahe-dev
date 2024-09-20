@@ -97,7 +97,7 @@
     </td>
     <td valign="top" width="30%">
       <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&langs_count=10&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&langs_count=10&theme=radical" />
       </a>
     </td>
   </tr>
