@@ -73,7 +73,6 @@
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
       </a>
-     
     </td>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
