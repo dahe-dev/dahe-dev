@@ -91,6 +91,24 @@
 
 </td></tr></table>
 
-[![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/dahe-dev)
+<div>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mrabro&row=4&theme=onedark&no-frame=true"/>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+ 
+## Last Tweet
+[![Rafi Abro's Tweet](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/mrabro)
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dahe-dev&style=for-the-badge&color=green" align="center" />
+</div>  
+  
+
+<br/>  
 
