@@ -82,6 +82,13 @@
 
 ## Github Stats  📈
 <table style="width: 100%;">
+    <tr>
+    <td colspan="2" style="text-align: center;">
+      <a href="https://github.com/dahe-dev/dahe-dev">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true" alt="state-david"/>
+      </a>
+    </td>
+  </tr>
   <tr>
     <td valign="top" style="width: 50%; text-align: center;">
       <a href="https://github.com/dahe-dev/dahe-dev">
@@ -98,13 +105,7 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true" alt="state-david"/>
-      </a>
-    </td>
-  </tr>
+
 </table>
 
 
