@@ -103,14 +103,15 @@
 <br><br>
 
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
 </a>
 <br><br>
 
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarda&theme=dark" alt="Rahul's GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=dark" alt="Rahul's GitHub Streak Stats"/>
 </a>
 <br><br>
+<!-- Aqui entra el otro -->
 
 <a href="https://github.com/rahulkarda/rahulkarda">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rahulkarda&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
