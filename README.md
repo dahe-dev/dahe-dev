@@ -105,6 +105,15 @@
   
  </table>
 
+<table>
+  <tr>
+    <td>Contenido de la columna 1</td>
+    <td>Contenido de la columna 2</td>
+  </tr>
+  <tr>
+    <td colspan="2">Contenido de la columna que abarca ambas columnas</td>
+  </tr>
+</table>
 
 
 
