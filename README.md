@@ -107,7 +107,7 @@
 
   <div style="flex: 1; margin-left: 10px;">
     <a href="https://github.com/dahe-dev/dahe-dev">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=all" />
     </a>
   </div>
 </div>
