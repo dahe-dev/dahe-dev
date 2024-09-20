@@ -85,7 +85,7 @@
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/dahe-dev/dahe-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/dahe-dev/dahe-dev">
@@ -93,7 +93,9 @@
 </a>
     </td>
     <td valign="top" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=dahe-dev&theme=radical&hide_border=true" align="left" style="width: 100%" />
+      <a href="https://github.com/dahe-dev/dahe-dev">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
     </td>
   </tr>
  </table>
