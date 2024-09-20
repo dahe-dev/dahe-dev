@@ -83,7 +83,7 @@
 ## Github Stats  📈
 <table style="width: 100%;">
   <tr>
-    <td valign="top" style="width: 70%; text-align: center;">
+    <td valign="top" style="width: 60%; text-align: center;">
       <a href="https://github.com/dahe-dev/dahe-dev">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true" alt="state-david"/>
       </a>
@@ -95,7 +95,7 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=radical&hide_border=true" alt="img2"/>
       </a>
     </td>
-        <td valign="top" style="width: 30%; text-align: center;">
+        <td valign="top" style="width: 40%; text-align: center;">
       <a href="https://github.com/dahe-dev/dahe-dev">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&theme=radical" />
       </a>
