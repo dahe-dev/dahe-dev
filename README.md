@@ -98,15 +98,15 @@
 </a>
     </td>
   </tr>
- </table>
-
-<table>
-  <tr>
 <a href="https://github.com/dahe-dev/dahe-dev">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true)](https://github.com/dahe-dev" alt="Rahul's GitHub Stats Graph"/>
 </a>
 <br><br>
-</table></tr>
+  
+ </table>
+
+
+
 
 
 
