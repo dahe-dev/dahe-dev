@@ -46,15 +46,16 @@
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="css" height="50" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="50" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="vite" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vitest" alt="vitest" height="50" /></a>  
       </div>
     </td>
     <td valign="top" width="25%">
       <h3>AI</h3>
       <div align="center">  
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="vue" height="50" /></a>  
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="vue" height="50" /></a>  
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="vue" height="50" /></a>  
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="vue" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py" alt="py" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" height="50" /></a>   
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="50" /></a>  
       </div>
     </td>
     <td valign="top" width="25%">
@@ -62,6 +63,10 @@
       <div align="center">  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="postman" height="50" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="linux" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="figma" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="git" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=GitHub" alt="GitHub" height="50" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="50" /></a>  
       </a>
       </div>
