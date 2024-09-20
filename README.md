@@ -5,7 +5,7 @@
 <!--Intro start-->
 
 <p align="left">
-**Desarrollador Web Full Stack** de Perú.
+## Desarrollador Web Full Stack de Perú.
 
 🔭 Actualmente, estoy trabajando en el desarrollo de aplicaciones web utilizando **Laravel** y **Vue.js**, y tengo más de 2 años de experiencia en el campo.
 
@@ -29,7 +29,7 @@
 </p>
 
 
-## 🖥️ My tech stacks :
+## 🖥️ Tecnologías conocidas :
 
 <p align="right">
   <h3><i>Hosting providers:</i></h3>
@@ -37,7 +37,7 @@
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       </a>
       <br>AWS
     </td>	  
