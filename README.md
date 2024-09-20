@@ -88,12 +88,12 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27%20Github%20Stats" alt="img1" />
       </a>
     <a href="https://github.com/dahe-dev/dahe-dev">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=dark" alt="Rahul's GitHub Streak Stats"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=radical" alt="img2"/>
     </a>
     </td>
     <td valign="top" width="50%">
       <a href="https://github.com/dahe-dev/dahe-dev">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
       </a>
     </td>
   </tr>
@@ -104,21 +104,10 @@
       </a>
     </td>
   </tr>
-  
-
 <br><br>
-  
  </table>
 
-<table>
-  <tr>
-    <td>Contenido de la columna 1</td>
-    <td>Contenido de la columna 2</td>
-  </tr>
-  <tr>
-    <td colspan="2">Contenido de la columna que abarca ambas columnas</td>
-  </tr>
-</table>
+
 
 
 
