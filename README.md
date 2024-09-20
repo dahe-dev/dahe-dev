@@ -111,6 +111,9 @@
     </a>
   </div>
 </div>
+<a href="https://github.com/dahe-dev/dahe-dev">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=dark" alt="Rahul's GitHub Streak Stats"/>
+</a>
 
 
 <!-- Proyectos-->
