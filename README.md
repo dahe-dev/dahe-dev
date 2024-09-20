@@ -103,26 +103,16 @@
 
 # GitHub Stats 📈
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; margin-right: 10px;">
-    <a href="https://github.com/dahe-dev/dahe-dev">
-      <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27s%20Github%20Stats" alt="David's GitHub Stats" />
-    </a>
-    <br><br>
-    <a href="https://github.com/dahe-dev/dahe-dev">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true" alt="David's GitHub Stats Graph" />
-    </a>
-  </div>
+<a href="https://github.com/dahe-dev/dahe-dev">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true)](https://github.com/dahe-dev" alt="Rahul's GitHub Stats Graph"/>
+</a>
+<br><br>
 
-  <div style="flex: 1; margin-left: 10px;">
-    <a href="https://github.com/dahe-dev/dahe-dev">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
-    </a>
-  </div>
-</div>
+
 <a href="https://github.com/dahe-dev/dahe-dev">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=dark" alt="Rahul's GitHub Streak Stats"/>
 </a>
+<br><br>
 
 
 <!-- Proyectos-->
