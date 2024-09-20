@@ -98,7 +98,7 @@
 </a>
 
 <a href="https://github.com/dahe-dev/dahe-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
 </a>
 <br><br>
 
