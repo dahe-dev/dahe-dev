@@ -196,7 +196,7 @@
         <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
       </div>
     </td>
-    <td valign="center" width="25%">
+    <td align="center" width="25%">
       <h3>AI</h3>
       <div align="center">  
         <a href="#%EF%B8%8F-my-tech-stacks-">
