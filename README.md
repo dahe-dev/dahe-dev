@@ -84,15 +84,15 @@
 <table>
   <tr>
     <td valign="top" width="70%">
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=github_dark&hide_border=true" alt="state-david"/>
-      </a>
-      <a href="https://github.com/dahe-dev/dahe-dev">
+            <a href="https://github.com/dahe-dev/dahe-dev">
         <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=David%20Henrry%27%20Github%20Stats" alt="img1" />
       </a>
       <br>
       <a href="https://github.com/dahe-dev/dahe-dev">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=github_dark&hide_border=true" alt="img2"/>
+      </a>
+      <a href="https://github.com/dahe-dev/dahe-dev">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=github_dark&hide_border=true" alt="state-david"/>
       </a>
     </td>
     <td valign="top" width="30%">
