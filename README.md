@@ -52,6 +52,16 @@
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="cpp" />
       </a>
     </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      </a>
+    </td>
   </tr>
 </table>
 <p>
@@ -60,39 +70,33 @@
   <tr border: none;>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/bash-logo.png?raw=true" width="48" height="48" alt="Bash" />
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
       </a>
-      <br>Bash
+    </td>
+   <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+      </a>
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/css3-logo.png?raw=true" width="48" height="48" alt="CSS 3" />
+        <img src="https://skillicons.dev/icons?i=pinia" width="48" height="48" alt="pinia" />
       </a>
-      <br>CSS 3
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/html5-logo.png?raw=true" width="48" height="48" alt="HTML 5" />
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
       </a>
-      <br>HTML 5
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/markdown-logo.png?raw=true" width="48" height="48" alt="Markdown" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       </a>
-      <br>Markdown
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/python-logo.png?raw=true" width="48" height="48" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       </a>
-      <br>Python
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/yaml-logo.png?raw=true" width="48" height="48" alt="YAML" />
-      </a>
-      <br>YAML
     </td>
   </tr>
 </table>
@@ -104,78 +108,20 @@
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub Action" />
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       </a>
-      <br>Action
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ansible-logo.png?raw=true" width="48" height="48" alt="Ansible" />
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
       </a>
-      <br>Ansible
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ceph-logo.png?raw=true" width="48" height="48" alt="Ceph" />
-      </a>
-      <br>Ceph
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab CI/CD" />
-      </a>
-      <br>CI/CD
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/cloud-init-logo.png?raw=true" width="48" height="48" alt="Cloud-Init" />
-      </a>
-      <br>Cloud-Init
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafana-logo.png?raw=true" width="48" height="48" alt="Grafana" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
       </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/influxdb-logo.png?raw=true" width="48" height="48" alt="InfluxDB" />
-      </a>
-      <br>InfluxDB
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/terraform-logo.png?raw=true" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/vault-logo.png?raw=true" width="48" height="48" alt="Vault" />
-      </a>
-      <br>Vault
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/visual-studio-logo.png?raw=true" width="48" height="48" alt="Visual Studio Code" />
-      </a>
-      <br>VS Code
-    </td>
+    </td>	  
+
   </tr>
 </table>
 </p>
