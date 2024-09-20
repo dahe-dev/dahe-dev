@@ -4,8 +4,8 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<p align="left">
 ## Desarrollador Web Full Stack de Perú.
+<p align="left">
 
 🔭 Actualmente, estoy trabajando en el desarrollo de aplicaciones web utilizando **Laravel** y **Vue.js**, y tengo más de 2 años de experiencia en el campo.
 
@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## My Skill Set  
+## Mis habilidades
 <table>
   <tr>
     <td valign="top" width="25%">
@@ -80,7 +80,7 @@
 
 
 
-## Github Stats  📈
+## Estadísticas de Github 📈
 <table>
   <tr>
     <td valign="top" width="70%">
@@ -103,17 +103,7 @@
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
+## Mis repositorios 💻
 <!-- Proyectos-->
 <br>
 
@@ -135,9 +125,8 @@
 <br><br>
 
 
-
 <div>
-    <a><h2>Trophies</h2></a>
+    <a><h2>Trofeos</h2></a>
     <a href="https://github.com/dahe-dev/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=dahe-dev&row=4&theme=onedark&no-frame=true"/>
 </div>
