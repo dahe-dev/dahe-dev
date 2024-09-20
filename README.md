@@ -94,14 +94,8 @@
       <a href="https://github.com/dahe-dev/dahe-dev">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=radical&hide_border=true" alt="img2"/>
       </a>
-      
     </td>
-  </tr>
-  <tr>
-    <td valign="top" style="width: 50%; text-align: center;">
-      
-    </td>
-    <td valign="top" style="width: 50%; text-align: center;">
+        <td valign="top" style="width: 50%; text-align: center;">
       <a href="https://github.com/dahe-dev/dahe-dev">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&theme=radical" />
       </a>
