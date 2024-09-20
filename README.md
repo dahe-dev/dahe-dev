@@ -4,6 +4,7 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Desarrollador Web Full Stack de Perú.
 <p align="left">
 
@@ -80,6 +81,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Estadísticas de Github 📈
 <table>
   <tr>
@@ -102,7 +104,9 @@
     </td>
   </tr>
 </table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Mis repositorios 💻
 <!-- Proyectos-->
 <br>
@@ -125,8 +129,10 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Trofeos 💻
+
 <div>
-    <a><h2>Trofeos</h2></a>
     <a href="https://github.com/dahe-dev/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=dahe-dev&row=4&theme=onedark&no-frame=true"/>
 </div>
