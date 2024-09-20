@@ -30,7 +30,7 @@
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="js" />
       </a>
-      <br/> JavaScript
+<!--       <br/> JavaScript -->
     </td>	  
     <td align="center" width="60" height="60">
       <a href="#%EF%B8%8F-my-tech-stacks-">
