@@ -30,6 +30,7 @@
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=js" width="24" height="24" alt="js" />
       </a>
+      <br/> JavaScript
     </td>	  
     <td align="center" width="60" height="60">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -72,6 +73,7 @@
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
       </a>
+     
     </td>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
