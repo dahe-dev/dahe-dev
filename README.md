@@ -85,29 +85,7 @@
   <tr>
     <td valign="top" width="70%">
       <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=cardinal&hide_border=true" alt="state-david"/>
-      </a>
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=holi&hide_border=true" alt="img2"/>
-      </a>
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=holi&hide_border=true&custom_title=David%20Henrry%27%20Github%20Stats" alt="img1" />
-      </a>
-      <br>
-    </td>
-    <td valign="top" width="30%">
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide_border=true&langs_count=10&theme=holi" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true" alt="state-david"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=prussian&hide_border=true" alt="state-david"/>
       </a>
       <a href="https://github.com/dahe-dev/dahe-dev">
         <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27%20Github%20Stats" alt="img1" />
