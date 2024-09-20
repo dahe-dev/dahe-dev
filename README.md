@@ -85,7 +85,7 @@
   <tr>
     <td valign="top" width="70%">
       <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=radical&hide_border=true" alt="state-david"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=holi&hide_border=true" alt="state-david"/>
       </a>
       <a href="https://github.com/dahe-dev/dahe-dev">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=holi&hide_border=true" alt="img2"/>
