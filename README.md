@@ -23,7 +23,7 @@
 ## 🖥️ Tecnologías conocidas :
 
 <p align="right">
-  <h3><i>Lenguajes de programación: </i></h3>
+  <h3><i>Lenguajes: </i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
@@ -96,6 +96,23 @@
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      </a>
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Base de datos:</i></h3>
+  <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      </a>
+    </td>
+   <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       </a>
     </td>
   </tr>
