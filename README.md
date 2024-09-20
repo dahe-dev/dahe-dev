@@ -199,11 +199,15 @@
     <td valign="top" width="25%">
       <h3>AI</h3>
       <div align="center">  
-        <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TensorFlow_logo.svg/512px-TensorFlow_logo.svg.png" alt="TensorFlow" height="50" /></a>  
-        <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" height="50" /></a>  
-        <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://scikit-learn.org/stable/_static/scikit_learn_logo_small.svg" alt="scikit-learn" height="50" /></a>  
-        <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://keras.io/img/logo.png" alt="Keras" height="50" /></a>  
-        <a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://openai.com/favicon.ico" alt="OpenAI" height="50" /></a>  
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
+      </a>
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
+      </a>
+        <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
+      </a>
       </div>
     </td>
   </tr>
