@@ -124,17 +124,17 @@
   <h3><i>Otras herramientas y tecnologías:</i></h3>
   <table>
   <tr border: none;>
-    <td align="center" width="55">
+    <td align="center" width="60">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
       </a>
     </td>	  
-    <td align="center" width="55">
+    <td align="center" width="60">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="ubuntu" />
       </a>
     </td>	  
-    <td align="center" width="55">
+    <td align="center" width="60">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="vscode" />
       </a>
