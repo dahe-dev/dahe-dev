@@ -88,16 +88,16 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=github_dark&hide_border=true" alt="state-david"/>
       </a>
       <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=David%20Henrry%27%20Github%20Stats" alt="img1" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=David%20Henrry%27%20Github%20Stats" alt="img1" />
       </a>
       <br>
       <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=radical&hide_border=true" alt="img2"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=github_dark&hide_border=true" alt="img2"/>
       </a>
     </td>
     <td valign="top" width="30%">
       <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide=less&langs_count=10&theme=github_dark" />
       </a>
     </td>
   </tr>
