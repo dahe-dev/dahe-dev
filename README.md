@@ -28,7 +28,7 @@
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
+        <img src="https://skillicons.dev/icons?i=js" width="24" height="24" alt="js" />
       </a>
     </td>	  
     <td align="center" width="110">
