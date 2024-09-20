@@ -80,6 +80,17 @@
 
 
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=mrabro&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://streak-stats.demolab.com/?user=mrabro&theme=radical&hide_border=true" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+[![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/dahe-dev)
 
 
