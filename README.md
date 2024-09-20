@@ -60,7 +60,7 @@
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="50" /></a>  
       </div>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top" width="5%">
       <h3>Tools</h3>
       <div align="center">  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="postman" height="50" /></a>  
