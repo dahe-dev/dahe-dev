@@ -26,39 +26,39 @@
   <h3><i>Lenguajes: </i></h3>
   <table>
   <tr border: none;>
-    <td align="center" width="60" height="60">
+    <td align="center" width="50" height="50">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="js" />
       </a>
 <!--       <br/> JavaScript -->
     </td>	  
-    <td align="center" width="60" height="60">
+    <td align="center" width="50" height="50">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="ts" />
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="50" height="50">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="php" />
       </a>
 <!--       <br>PHP -->
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="50" height="50">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="py" />
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="50" height="50">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="cpp" />
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="50" height="50">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="50" height="50">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       </a>
