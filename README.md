@@ -51,7 +51,7 @@
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="50" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="vite" height="50" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vitest" alt="vitest" height="50" /></a>  
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vitest" alt="react" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="react" height="50" /></a>  
       </div>
     </td>
     <td valign="top" width="25%">
