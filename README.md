@@ -51,6 +51,7 @@
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="50" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="vite" height="50" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vitest" alt="vitest" height="50" /></a>  
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vitest" alt="react" height="50" /></a>  
       </div>
     </td>
     <td valign="top" width="25%">
@@ -114,14 +115,6 @@
 <a href="https://github.com/rahulkarda/NFT-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&theme=github_dark"/>
 </a> 
-
-<a href="https://github.com/rahulkarda/Wave-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&theme=github_dark"/>
-</a>
-
-<a href="https://github.com/rahulkarda/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&theme=github_dark"/>
-</a>
 
 <a href="https://github.com/rahulkarda/NASA-APOD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&theme=github_dark"/>
