@@ -87,7 +87,7 @@
 <table>
   <tr>
     <td valign="top" width="70%">
-            <a href="https://github.com/dahe-dev/dahe-dev">
+        <a href="https://github.com/dahe-dev/dahe-dev">
         <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=David%20Henrry%27%20Github%20Stats" alt="img1" />
       </a>
       <br>
@@ -106,7 +106,7 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=3600" />
 
 ## Mis repositorios 💻
 <!-- Proyectos-->
