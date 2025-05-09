@@ -8,7 +8,7 @@
 ## Desarrollador Web Full Stack de Perú.
 <p align="left">
 
-🔭 Actualmente, estoy trabajando en el desarrollo de aplicaciones web utilizando **Laravel** y **Vue.js**, y tengo más de 2 años de experiencia en el campo.
+🔭 Actualmente, estoy trabajando en el desarrollo de aplicaciones web utilizando  **NestJs**, y **Vue.js**, y tengo más de 2 años de experiencia en el campo.
 
 🌱 En este momento, estoy en proceso de titulación como **Ingeniero de Sistemas** y sigo aprendiendo sobre las nuevas tecnologias de desarrollo web e inteligencia artificial.
 
