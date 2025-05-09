@@ -83,55 +83,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Estadísticas de Github 📈
-<table>
-  <tr>
-    <td valign="top" width="70%">
-        <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=David%20Henrry%27%20Github%20Stats" alt="img1" />
-      </a>
-      <br>
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahe-dev&theme=github_dark&hide_border=true" alt="img2"/>
-      </a>
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dahe-dev&theme=github_dark&hide_border=true" alt="state-david"/>
-      </a>
-    </td>
-    <td valign="top" width="30%">
-      <a href="https://github.com/dahe-dev/dahe-dev">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahe-dev&hide_border=true&hide=less&langs_count=8&theme=github_dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dahe-dev&count_private=true&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=3600" />
-
-## Mis repositorios 💻
-<!-- Proyectos-->
-<br>
-
-<a href="https://github.com/rahulkarda/NFT-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&theme=github_dark"/>
-</a> 
-
-<a href="https://github.com/rahulkarda/NASA-APOD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&theme=github_dark"/>
-</a>
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Trofeos 💻
-
-<div>
-    <a href="https://github.com/dahe-dev/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=dahe-dev&row=4&theme=onedark&no-frame=true"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
 
 <br/>  
   <!-- Contador de vistas-->
